@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Александр](https://up.htmlacademy.ru/htmlcss-individual/1/user/2512591).
-* Наставник: `Неизвестно`.
+* Студент: [Александр Василевский](https://up.htmlacademy.ru/htmlcss-individual/1/user/2512591).
+* Наставник: Артём Картавый
 
 ---
 
